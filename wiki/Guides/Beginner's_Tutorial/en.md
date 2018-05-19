@@ -1,14 +1,14 @@
-# Pemula
+# Beginner
 
 
-Selamat datang ke tutorial osu! untuk pemula. Dunia di dalam osu! seringkali menjadi sangat kompetitif. Entah hanya untuk membantu kamu dalam mengembangkan karir kamu, ingin berkompetisi dalam osu!, atau hanya mengembangkan skill untuk menikmati game dengan lebih baik, t. Semua ini untukmu! Panduan ini akan menjelaskan semua tentang dunia osu! dari dasar hingga puncak.
+Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very competitive place. Whether you are looking for an extra push to help lift off your career, wanting to be competitive in osu!, or simply hoping to improve yourself to enjoy the game more, this is for you! This guide will span everything you need to get off the ground and soar around the world of osu!.
 
-Tipe masukan
+Types of Input
 --------------
 
-_Lihat juga [Gaya Bermain](/wiki/Play_Styles)._
+*See also [Play Styles](/wiki/Play_Styles).*
 
-Secara umum, banyak pemain yang memulai dengan mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
+By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
 
 -   Mouse
 -   Tablet
