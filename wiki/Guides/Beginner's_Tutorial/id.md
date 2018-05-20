@@ -8,18 +8,18 @@ Tipe masukan
 
 _Lihat juga [Gaya Bermain](/wiki/Play_Styles)._
 
-Secara umum, banyak pemain yang memulai dengan mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
+Secara umum, banyak pemain yang memulai dengan mouse, `since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:`
 
 -   Mouse
 -   Tablet
--   Touch Screen
--   Keyboard Clicking
+-   Layar Sentuh
+-   Menekan Keyboard
 
-There are other ways you can control the cursor (Wiimote, motion sensor, etc.) but for the purpose of the guide, we will focus on the four bulleted points.
+Sebenarnya, ada banyak alat untuk menggerakkan kursor (Wiimote, motion sensor, etc.) tetapi untuk panduan ini, kita hanya akan berfokus pada empat alat yang telah disebutkan.
 
-### Mouse Play
+### Bermain dengan mouse
 
-If you are going to stick to use the mouse, it's suggested to get a mouse with a cord for stability, as wireless mice can disconnect or stutter. Any mouse can work just fine, though; some people use mice from a dollar store! It also helps to continue using the same mouse for a long time, so try and get one that will last you a good while! Mouse play tends to excel at:
+`If you are going to stick to use the mouse, it's suggested to get a mouse with a cord for stability, as wireless mice can disconnect or stutter. Any mouse can work just fine, though; some people use mice from a dollar store! It also helps to continue using the same mouse for a long time, so try and get one that will last you a good while! Mouse play tends to excel at:
 
 -   Jumping, especially in right angles or straight angles.
 -   Stability and aim, making it easier to click "smaller" circles.
@@ -27,9 +27,9 @@ If you are going to stick to use the mouse, it's suggested to get a mouse with a
 Mouse play tends to struggle with:
 
 -   Jumping back and forth in succession.
-
-### Tablet Play
-
+`
+### Bermain dengan tablet
+`
 If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/List_of_Guides/Tablet_purchase/ "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
 
 -   No cursor drift.
@@ -38,9 +38,9 @@ If you are going to use a tablet, you should try and pick an area on the tablet 
 Tablet play tends to struggle with:
 
 -   Jumping in right angles.
-
-### Touchscreen Play
-
+`
+### Bermain dengan Layar Sentuh
+`
 Although rare, quite a few users play on a touchscreen. You should try not to press too hard on the touchscreen or find one that is quite sensitive to your tapping on the fingers, and better yet one that has a low latency. This should help increase the longevity of the screen you are using. Touchscreen tends to excel at:
 
 -   Streaming long periods of notes and stamina.
@@ -49,14 +49,14 @@ Although rare, quite a few users play on a touchscreen. You should try not to pr
 Touchscreen tends to struggle with:
 
 -   Aim, especially with smaller notes.
-
-### Keyboard Tapping
-
+`
+### Menekan dengan keyboard
+`
 For mouse and tablet or any other input device, you may also use your keyboard (`Z` and `X` by default) to hit the circles instead. The benefit of doing so is spreading the physical movement across two hands, rather than doing the clicking with your aiming device, thus allowing you to more easily hit faster sections of notes. This takes some time to get used to, but if you decide on using your keyboard to tap circles, it's a good idea to get used to it early on.
-
-Gameplay Techniques
+`
+Teknik Bermain
 -------------------
-
+`
 ### Accuracy and Timing
 
 One of the most important factors when playing osu! is your timing, much like other rhythm games! In this sense, if you've listened to a lot of music, it should be fairly easy to pick up on. The goal of accuracy and timing is to tap the notes at the correct time as precisely as possible.
@@ -109,14 +109,14 @@ A commonly overlooked feature of the game is the Raw Input function. This allows
 *See also [Skinning](/wiki/Skinning/).*
 
 There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/forum/t/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
+`
+## Maps untuk pemula
 
-## Beginner Maps
+Cobalah beberapa map berikut. Mereka diurutkan dari yang termudah hingga yang tersulit, so try working your way down the list at your own pace!
 
-Try giving these maps a go. They are ordered from the easiest to the most difficult, so try working your way down the list at your own pace!
+### Pemula
 
-### Starter
-
-You can begin your adventure with these maps!
+Kalian bisa memulai petualangan kalian dengan map ini!
 
 -   [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/b/57281)(0.83 Stars)
 -   [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/b/67008)(0.99 Stars)
@@ -130,9 +130,9 @@ You can begin your adventure with these maps!
 -   [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/b/404645)(1.13 Stars)
 -   [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/b/397975)(1.14 Stars)
 
-### Novice
+### Menengah
 
-After you play a bit, try these maps out.
+Cobalah map berikut setelah kamu menyelesaikan map sebelumnnya:
 
 -   [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/b/124348)(1.21 Stars)
 -   [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/b/177139)(1.22 Stars)
@@ -143,7 +143,7 @@ After you play a bit, try these maps out.
 
 ### Challenge
 
-Want to push yourself and take on a challenge? Try these!
+Ingin memaksakan diri dan menerima tantangan? Coba ini!
 
 -   [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/b/96042)(1.32 Stars)
 -   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/b/230174)(1.36 Stars)
@@ -151,6 +151,6 @@ Want to push yourself and take on a challenge? Try these!
 -   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/b/368307)(1.45 Stars)
 -   [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/b/318994)(1.46 Stars)
 
-## Going Beyond
-
-Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!
+## Pergi keluar
+`
+Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!`
