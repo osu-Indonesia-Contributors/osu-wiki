@@ -1,14 +1,12 @@
 # Discord RPC
 
-Since 2017-10-31, Discord RPC has now made its way to stable! Sejak 2017-10-31, Discord RPC telah mencapai versi stable
+Since 2017-10-31, Discord RPC has now made its way to stable!
 
-## What does this mean? Apa artinya ini?
+## What does this mean?
 
 This means that you can now advertise and join osu! multiplayer games from inside Discord servers, see what your friends are playing on osu!, and even ask to join games currently in progress! You can also spectate people who you share servers with.
 
-Ini berarti kamu dapat mempromosikan dan bergabung dalam permainan-permainan osu! multiplayer dari dalam server-server Discord, melihat apa yang dimainkan temanmu di osu!, bahkan meminta untuk bergabung dalam permainan yang sedang berlangsung! Kamu juga dapat menonton orang-orang yang satu server denganmu.
-
-## How does it work? Bagaimana cara kerjanya?
+## How does it work?
 
 -   **Update the game by opening the game client first!** This new fancy Discord business only works with the special Halloween version of the game and any newer builds going forward - it will **not** work at all if you do not do this.
 -   Make sure Discord detects osu! as a registered game on your system - it generally does this by default, so you shouldn't need to worry about it. You can check this in the `App Settings` -> `Games` section of the Discord options menu.
