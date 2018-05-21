@@ -31,6 +31,7 @@ Tombol ini akan secara otomatis berubah untuk memperbolehkanmu menonton orang ya
 ## Masalah Dikenal
 
 Jika kamu mengirim invitasi Discord RPC terlalu sering, kamu mungkin akan menghadapi error dari Discord yang terlihat seperti ini: 
+
 ![](img/slow-down.jpg)
 
 Hal ini benar-benar normal dan lebih menyesatkan pada bagian Discord daripada yang lain. Tunggu beberapa menit, dan kamu dapat mengirimkan invitasi lagi.
