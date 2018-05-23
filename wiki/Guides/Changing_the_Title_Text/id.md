@@ -42,13 +42,13 @@ R, G dan B adalah nilai diantara 0 dan 255, dipisahkan oleh titik. Juga catat it
 
 `time:N`
 
-Waktu dalam milidetik dari awal lagu dimana judul mulai memudar masuk. Itu dipengaruhi oleh sebuah pudar, yang ke 1/20 waktu tunggu dalam ms
+Waktu dalam milidetik dari awal lagu dimana judul mulai *fade in*. Itu dipengaruhi oleh sebuah *fade*, yang ke 1/20 waktu tunggu dalam ms
 
 ### Lama munculnya
 
 `hold:N`
 
-Seberapa lama teks bertahan dalam layar, termasuk memudar masuk dan keluar.
+Seberapa lama teks bertahan dalam layar, termasuk *fade in* dan *fade out*.
 
 ### Ketebalan
 
@@ -82,6 +82,6 @@ Contoh
 
 `[time:672,size:30,colour:255.0.0,hold:1000]Line 1|[bold:0]Line 2`
 
-Baris pertama akan mulai memudar masuk selama 50 ms pada 672, menjadi warna merah, dan menjadi berukuran sedang dan tebal, memudar keluar ke 0 pada 1672. Baris ke 2 akan memudar masuk selama 300 ms pada 1172 dan memudar menjadi 0 pada 7172, menjadi putih, dan besar tetapi tidak tebal.
+Baris pertama akan mulai *fade in* selama 50 ms pada 672, menjadi warna merah, dan menjadi berukuran sedang dan tebal, *fade out* ke 0 pada 1672. Baris ke 2 akan *fade in* selama 300 ms pada 1172 dan *fade* menjadi 0 pada 7172, menjadi putih, dan besar tetapi tidak tebal.
 
 [Points Link]: https://en.wikipedia.org/wiki/Point_(typography)
