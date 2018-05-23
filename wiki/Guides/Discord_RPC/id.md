@@ -36,6 +36,6 @@ Jika kamu mengirim invitasi Discord RPC terlalu sering, kamu mungkin akan mengha
 
 Hal ini benar-benar normal dan lebih menyesatkan pada bagian Discord daripada yang lain. Tunggu beberapa menit, dan kamu dapat mengirimkan invitasi lagi.
 
-## Trivia
+## Trivial
 
--   Original forum post: [Discord RPC - join multiplayer (and more) from Discord!](/community/forums/topics/659856) by [Ephemeral](/users/102335)
+-   Forum post asli: [Discord RPC - join multiplayer (and more) from Discord!](https://osu.ppy.sh//community/forums/topics/659856) by [Ephemeral](https://osu.ppy.sh/users/102335)
