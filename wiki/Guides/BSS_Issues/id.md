@@ -29,7 +29,7 @@ Apabila [BSS](/wiki/BSS) (Metode Pengajuan Beatmap) tidak mengizinkan Anda untuk
 Apabila kau masih mengalami masalah, ikuti petunjuk berikut:
 
 1.  Ekspor beatmap menggunakan editor beatmap.
-    1.  `Berkas` lalu `Ekspor Paket`.
+    1.  `Berkas` lalu `Ekspor Map`.
 2.  Keluar dari editor beatmap lalu hapus beatmapset di osu!.
 3.  Keluar dari osu!
 4.  Pergi ke beatmapset terekspor dan ubah ekstensi dari `.osz` menjadi `.zip` (anda perlu ekstensi berkas agar terlihat dari opsi folder windows untuk melakukan ini).
