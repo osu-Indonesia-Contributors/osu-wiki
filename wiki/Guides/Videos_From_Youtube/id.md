@@ -15,10 +15,10 @@ Cara mengunduh video dari YouTube
 
 ### Unduh video
 
-[VIXY](http://vixy.net/) (ada banyak, banyak, Banyak sekali di luar sana tetapi yang satu ini dicantumkan).
+[VIXY](http://vixy.net/) (ada banyak, banyak, banyak sekali di luar sana tetapi yang satu ini dicantumkan).
 
 ### Menghapus audio
 
 ### Memuat video di osu!
 
-Buka beatmapmu dan tekan `F2`, klik Insert Background Video. Gunakan slider di bawah untuk menyesuaikan waktu mulai offset dan voila, kamu selesai.
+Buka beatmapmu dan tekan `F2`, klik Insert Background Video. Gunakan slider di bawah untuk menyesuaikan waktu mulai offset dan voila, Anda selesai.

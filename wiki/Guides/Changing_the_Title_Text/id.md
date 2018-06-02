@@ -6,15 +6,15 @@ Mengganti Teks Judul
 Bagaimana cara mengubahnya
 -------------------------
 
-Sayangnya, kamu tidak dapat melakukan ini sendirian. Minta saja [QAT](https://osu.ppy.sh/help/wiki/People/Quality_Assurance_Team) untuk mengganti itu. Hanya mereka yang dapat melakukan itu, jadi berikan saja mereka sebuah catatan tentang apa yang kamu inginkan, dan apabila hal itu cukup beralasan, kamu akan mendapatkan teks judul baru pada mapmu! Gampang, bukan?!
+Sayangnya, Anda tidak dapat melakukan ini sendirian. Minta saja [QAT](https://osu.ppy.sh/help/wiki/People/Quality_Assurance_Team) untuk mengganti itu. Hanya mereka yang dapat melakukan itu, jadi berikan saja mereka sebuah catatan tentang apa yang Anda inginkan, dan apabila hal itu cukup beralasan, Anda akan mendapatkan teks judul baru pada mapmu! Gampang, bukan?!
 
 Mengapa Saya harus mengganti itu?
 ------------
 
-Jika digunakan secara tepat, itu dapat menambah efek tertentu (dengan cara yang baik!) pada sebuah map. Ini mengganti presentasi mapmu secara efektif jika digunakan secara tepat dengan mengganti elemen dan waktu kemunculan judul. Jika kamu seorang storyboarder, ini mungkin akan menjadi keuntungan besar untukmu!
+Jika digunakan secara tepat, itu dapat menambah efek tertentu (dengan cara yang baik!) pada sebuah map. Ini mengganti presentasi mapmu secara efektif jika digunakan secara tepat dengan mengganti elemen dan waktu kemunculan judul. Jika Anda seorang storyboarder, ini mungkin akan menjadi keuntungan besar untukmu!
 
 -   Sebuah contoh efektif yaitu [Noisestorm - Solar (Shiirn)](https://osu.ppy.sh/beatmapsets/33483/)
--   Kamu dapat membagi judul jika terlalu panjang untuk sebuah baris: [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop)](https://osu.ppy.sh/beatmapsets/1391/), [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick)](https://osu.ppy.sh/beatmapsets/57560/)
+-   Anda dapat membagi judul jika terlalu panjang untuk sebuah baris: [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop)](https://osu.ppy.sh/beatmapsets/1391/), [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick)](https://osu.ppy.sh/beatmapsets/57560/)
 
 Info Umum
 -------------
@@ -25,7 +25,7 @@ Kirim sebuah PP (pesan pribadi) dengan ini untuk seorang member QAT.
 
 `[firstOption:firstValue,secondOption:secondValue]` dan seterusnya, sebagainya; lihat disitu tidak ada spasi diantara tanda baca
 
--   Kamu dapat membagi teks judul menjadi baris-baris menggunakan karakter pipa, `|`
+-   Anda dapat membagi teks judul menjadi baris-baris menggunakan karakter pipa, `|`
 -   Pemformatan teks tidak dapat diatur menjadi kata-kata atau simbol-simbol terpisah. Sebagai gantinya, itu berlaku pada sebaris (lihat diatas). Opsi pemformatan seharusnya di awal baris;
 -   Baris-baris kosong diperbolehkan, tetapi tolong perhatikan spasi. Standar ukuran font sudah agak besar, dan 3 atau 4 baris dapat memakan seluruh spasi layar;
 
