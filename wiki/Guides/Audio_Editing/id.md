@@ -2,40 +2,40 @@
 
 _Lihat lebih lanjut [Basic MP3 Modifications](/wiki/Beatmap_Editor_Guides/Basic_MP3_Modifications)_
 
-[osu!academy](/wiki/Announcements/osu!academy) sudah membahas di [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk).
-That episode also contains how to install and use Audacity with LAME's `.mp3` export ability.
+[osu!academy](/wiki/Announcements/osu!academy) sudah membahas pada [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk).
+Episode itu juga berisi tentang bagaimana cara menginstall dan menggunakan Audacity dengan kemampuan ekspor `.mp3` LAME.
 
-This article serves as guide to help you do minor edits to your audio files for beatmapping purposes.
-By expanding it, you can help fellow beatmappers to create suitable audio files for any need.
+Artikel ini bertujuan sebagai petunjuk untuk membantu Anda melakukan perubahan-perubahan kecil untuk file audiomu untuk membuat beatmap.
+Dengan menambahkan ini, Anda dapat membantu sesama beatmapper untuk membuat file audio yang pas untuk kebutuhan apapun.
 
-_By no means is this the software that you can only use, rather this only lists from those who had added them here._
-_If you know of other tools that could be used and can explain how to use them for the descirbed sections below, please add them._
+_Tanpa maksud apapun ini adalah software yang hanya Anda dapat gunakan, tentunya ini hanya daftar dari yang telah menambahkannya disini._
+_Jika Anda tahu peralatan-peralatan lain yang dapat digunakan dan dijelaskan cara penggunaannya untuk bagian penjelasan dibawah, tolong tambahkan mereka._
 
-## Audacity (and LAME)
+## Audacity (dan LAME)
 
-[Audacity](http://audacity.sourceforge.net/download/) is a open source free audio editing and recording software.
-To properly use this for `.mp3`, you will need to use LAME.
+[Audacity](http://audacity.sourceforge.net/download/) adalah software open source pengubah dan perekam audio.
+Untuk menggunakan ini secara benar untuk `.mp3`, Anda akan perlu menggunakan LAME.
 
-[LAME](http://lame.sourceforge.net/) is an `.mp3` encoding library that will allow Audacity to export sound files in the `.mp3` format whilst using different bit rates.
-To install LAME on Audacity, refer to the [Audacity wiki](http://wiki.audacityteam.org/index.php?title=Lame_Installation#Windows_Instructions).
+[LAME](http://lame.sourceforge.net/) adalah sebuah `.mp3` encoding library yang dapat membuat Audacity mengekspor file suara di dalam `.mp3` format ketika menggunakan bit rates yang berbeda.
+Untuk menginstall LAME pada Audacity, rujuk ke [Audacity wiki](http://wiki.audacityteam.org/index.php?title=Lame_Installation#Windows_Instructions).
 
-### Lowering Bit Rate
+### Menurunkan Bit Rate
 
-Install Audacity and LAME, open Audacity then follow these steps:
+Install Audacity dan LAME, buka Audacity dan ikuti langkah berikut:
 
-1. Open the `.mp3` file that you want to lower the bit rate on.
-2. Press `Ctrl` + `Shift` + `E`, or
-   1. Click `File`.
-   2. Click `Export Audio...`.
-3. Change "Save as type:" to `MP3 Files`
-4. In the "Format Options", click on `Average` as the bit rate mode.
-5. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-6. Click `Save`.
+1. Buka file `.mp3` yang ingin Anda turunkan bit ratenya.
+2. Tekan `Ctrl` + `Shift` + `E`, atau
+    1. Klik `File`.
+    2. Klik `Export Audio...`.
+3. Ubah "Save as type:" menjadi `MP3 Files`
+4. Dalam "Format Options", klik pada `Average` sebagai mode bit rate.
+5. Navigasikan ke lokasi dimana Anda mau untuk menyimpan file.
+    - Anda juga dapat mengubah nama file.
+6. Klik `Save`.
 
-### Looping
+### Perulangan
 
-Install Audacity and LAME, open Audacity then follow these steps:
+Install Audacity dan LAME, buka Audacity dan ikuti langkah berikut:
 
 1. Open the `.mp3` file that you want to loop.
 2. Click and drag to highlight the parts you want to loop.
