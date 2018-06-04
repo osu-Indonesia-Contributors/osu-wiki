@@ -5,9 +5,9 @@ ketentuan, dan pemberitahuan berikut.
 Dengan mengunjungi osu.ppy.sh dan afiliasinya, dan / atau menggunakan layanan osu.ppy.sh atau layanan afiliasi apa pun, Anda mengakui
 kepatuhan penuh Anda terhadap syarat dan ketentuan yang tercantum di sini.
 
-Sebagai syarat penggunaan situs web ini, Anda menjamin osu.ppy.sh bahwa Anda tidak akan menggunakan situs web ini, atau konten apa pun
+Sebagai syarat penggunaan situs web ini, Anda memberikan jaminan kepada osu.ppy.sh bahwa Anda tidak akan menggunakan situs web ini, atau konten apa pun
 yang diperoleh dari situs web ini, untuk tujuan apa pun yang melanggar hukum atau dilarang oleh persyaratan ini. .
-Jika Anda melanggar salah satu Ketentuan Penggunaan ini, izin Anda untuk menggunakan situs web secara otomatis akan berakhir.
+Jika Anda terbukti melakukan pelanggaran terhadap satu atau lebih poin Ketentuan Penggunaan yang tertera di bawah ini, izin Anda untuk menggunakan situs web osu! secara otomatis akan berakhir.
 
 ** 1 \. DESKRIPSI LAYANAN **
 
