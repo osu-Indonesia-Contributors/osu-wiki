@@ -12,28 +12,28 @@ Kesulian dari sebuah beatmap *menjelaskan* tingkat keterampilan yang dibutuhkan 
 
 Dari [Kriteria Ranking](/wiki/Ranking_Criteria), peringkat bintang:
 
-- Bintang 1.50 atau dibawahnya adalah Mudah ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")
+- Bintang 1.50 atau dibawahnya adalah Easy ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")
 - Bintang 1.51 - 2.25 stars adalah Normal ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon")
-- Bintang 2.26 - 3.75 stars adalah Sulit ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")
-- Bintang 3.76 - 5.25 stars adalah Tersulit ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")
-- Bintang 5.26 - 6.75 stars adalah Ahli ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
-- Bintang 6.76 atau diatasnya adalah Ahli+ ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon")
+- Bintang 2.26 - 3.75 stars adalah Hard ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")
+- Bintang 3.76 - 5.25 stars adalah Insane ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")
+- Bintang 5.26 - 6.75 stars adalah Expert ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
+- Bintang 6.76 atau diatasnya adalah Expert+ ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon")
 
 ### Ikon web
 
 Penilaian bintang menentukan ikon web mana yang akan digunakan pada setiap beatmap tertentu. Mengikuti rentang ikon biasanya akan memberi Anda perkiraan yang bagus untuk mencapai penyebaran kesulitan yang seimbang. Ada beberapa panduan (lihat [bagian Mapset dari Kriteria Ranking](/wiki/Ranking_Criteria/#mapset)) Anda dapat mengikuti untuk meningkatkan kesulitan menyebar dari beatmapset anda.
 
-## Tingka kesulitan
+## Tingkat kesulitan
 
 *Lihat juga: [Penamaan Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming).*
 
 ### osu!
 
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") [Mudah](/wiki/Easy)
+- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") [Easy](/wiki/Easy)
 - ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") [Normal](/wiki/Normal)
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Sulit](/wiki/Hard)
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Tersulit](/wiki/Insane)
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Ahli](/wiki/Expert)
+- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Hard)
+- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Insane)
+- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Expert)
 
 ### osu!taiko
 
