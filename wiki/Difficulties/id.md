@@ -2,7 +2,7 @@
 
 *Tidak menjadi bingung dengan: [Beatmaps](/wiki/Beatmaps).*
 
-*Lihat juga: [Kriteria Ranking § Mapset](/wiki/Ranking_Criteria/#mapset).*
+*Lihat juga: [Ranking Criteria § Mapset](/wiki/Ranking_Criteria/#mapset).*
 
 Kesulian dari sebuah beatmap *menjelaskan* tingkat keterampilan yang dibutuhkan untuk menyelesaikannya.
 
@@ -25,7 +25,7 @@ Penilaian bintang menentukan ikon web mana yang akan digunakan pada setiap beatm
 
 ## Tingkat kesulitan
 
-*Lihat juga: [Penamaan Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming).*
+*Lihat juga: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming).*
 
 ### osu!
 
