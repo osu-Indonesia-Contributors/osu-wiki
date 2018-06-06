@@ -4,7 +4,7 @@
 
 *Lihat juga: [Ranking Criteria § Mapset](/wiki/Ranking_Criteria/#mapset).*
 
-Kesulian dari sebuah beatmap *menjelaskan* tingkat keterampilan yang dibutuhkan untuk menyelesaikannya.
+Kesulitan dari sebuah beatmap *menjelaskan* tingkat keterampilan yang dibutuhkan untuk menyelesaikannya.
 
 ## Penilaian Bintang
 
