@@ -3,7 +3,7 @@
 _Lihat lebih lanjut [Basic MP3 Modifications](/wiki/Beatmap_Editor_Guides/Basic_MP3_Modifications)_
 
 [osu!academy](/wiki/Announcements/osu!academy) sudah membahas pada [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk).
-Episode itu juga berisi tentang bagaimana cara menginstall dan menggunakan Audacity dengan kemampuan ekspor `.mp3` LAME.
+Episode itu juga berisi tentang bagaimana cara memasang dan menggunakan Audacity dengan kemampuan ekspor `.mp3` LAME.
 
 Artikel ini bertujuan sebagai petunjuk untuk membantu Anda melakukan perubahan-perubahan kecil untuk file audiomu untuk membuat beatmap.
 Dengan menambahkan ini, Anda dapat membantu sesama beatmapper untuk membuat file audio yang pas untuk kebutuhan apapun.
@@ -17,11 +17,11 @@ _Jika Anda tahu peralatan-peralatan lain yang dapat digunakan dan dijelaskan car
 Untuk menggunakan ini secara benar untuk `.mp3`, Anda akan perlu menggunakan LAME.
 
 [LAME](http://lame.sourceforge.net/) adalah sebuah `.mp3` encoding library yang dapat membuat Audacity mengekspor file suara di dalam `.mp3` format ketika menggunakan bit rates yang berbeda.
-Untuk menginstall LAME pada Audacity, rujuk ke [Audacity wiki](http://wiki.audacityteam.org/index.php?title=Lame_Installation#Windows_Instructions).
+Untuk memasang LAME pada Audacity, rujuk ke [Audacity wiki](http://wiki.audacityteam.org/index.php?title=Lame_Installation#Windows_Instructions).
 
 ### Menurunkan Bit Rate
 
-Install Audacity dan LAME, buka Audacity dan ikuti langkah berikut:
+Pasang Audacity dan LAME, buka Audacity dan ikuti langkah-langkah berikut:
 
 1. Buka file `.mp3` yang ingin Anda turunkan bit ratenya.
 2. Tekan `Ctrl` + `Shift` + `E`, atau
@@ -35,116 +35,112 @@ Install Audacity dan LAME, buka Audacity dan ikuti langkah berikut:
 
 ### Perulangan
 
-Install Audacity dan LAME, buka Audacity dan ikuti langkah berikut:
+Pasang Audacity dan LAME, buka Audacity dan ikuti langkah-langkah berikut:
 
-1. Open the `.mp3` file that you want to loop.
-2. Click and drag to highlight the parts you want to loop.
-   - Rarely, it would be the start to the end of the music.
-   - Sometimes the chorus or refrain is where looping is done best.
-3. Press `Ctrl` + `C`, or
-   1. Click `Edit`
-   2. Click `Copy`
-4. Find a location for where you can loop the part you have copied.
-   - This could be the end of the part you had highlighed.
-5. Press `Ctrl` + `V`, or
-   1. Click `Edit`
-   2. Click `Paste`
-6. Play through the entire music and make sure that the loop sounds good.
-7. Repeat as needed.
-8. Press `Ctrl` + `Shift` + `E`, or
-   1. Click `File`.
-   2. Click `Export Audio...`.
-3. Change "Save as type:" to `MP3 Files`
-4. In the "Format Options", click on `Average` as the bit rate mode.
-5. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-6. Click `Save`.
+1. Buka file `.mp3` yang Anda mau ulangi.
+2. Klik dan tarik untuk menandai bagian yang mau Anda ulangi.
+    - Sangat jarang, itu akan menjadi akhir dari musik.
+    - Terkadang chorus atau reffrein yang diulang menjadi bagus.
+3. Tekan `Ctrl` + `C`, atau
+    1. Klik `Edit`
+    2. Klik `Copy`
+4. Cari sebuah tempat untuk dimana Anda dapat mengulang bagian yang Anda salin.
+5. Press `Ctrl` + `V`, atau
+    1. Klik `Edit`
+    2. Klik `Paste`
+6. Mainkan seluruh bagian musik dan pastikan bahwa bagian ulang terdengar bagus.
+7. Ulangi sebanyak yang dibutuhkan
+8. Tekan `Ctrl` + `Shift` + `E`, atau
+    1. Klik `File`
+    2. Klik `Export Audio...`.
+9. Ubah "Save as type:" ke `MP3 Files`
+10. Dalam "Format Option", klik pada `Average` sebagai mode bit rate.
+11. Klik `Save`.
 
-### Cropping
+### Memotong
 
-Install Audacity and LAME, open Audacity then follow these steps:
+Pasang Audacity dan LAME, buka Audacity dan ikuti langkah-langkah berikut:
 
-1. Open the `.mp3` file that you want to crop.
-2. Click and drag to highlight the parts you want to crop.
-   - This should be the long outro that you don't want to map.
-3. Press `Delete`.
-4. Click and drag the last 3 to 5 seconds towards the end.
-5. Click `Effect`.
-5. Click `Fade Out`.
-6. Press `Ctrl` + `Shift` + `E`, or
-   1. Click `File`.
-   2. Click `Export Audio...`.
-7. Change "Save as type:" to `MP3 Files`
-8. In the "Format Options", click on `Average` as the bit rate mode.
-9. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-10. Click `Save`.
+1. Buka file `.mp3` yang ingin Anda potong.
+2. Klik dan tarik untuk menandai bagian yang mau Anda potong.
+    - Ini seharusnya menjadi outro panjang yang tidak ingin Anda map.
+3. Tekan `Delete`.
+4. Klik dan tarik 3 sampai 5 detik terakhir pada akhiran.
+5. Klik `Effect`.
+6. Klik `Fade Out`.
+7. Tekan `Ctrl` + `Shift` + `E`, atau
+    1. Klik `File`.
+    2. Klik `Export Audio...`.
+8. Ubah "Save as type:" menjadi `MP3 Files`
+9. Dalam "Format Options", klik pada `Average` sebagai mode bit rate.
+10. Navigasikan ke lokasi dimana Anda ingin simpan file tersebut.
+    - Anda dapat mengubah nama file juga.
+11. Klik `Save`.
 
 ## mp3DirectCut
 
-[mp3DirectCut](http://mpesch3.de1.cc/mp3dc.html) is a free to use audio editing software.
-This tool is recommended when you only want to raise/lower the volume or crop the audio as it doesn't require you to re-encode the audio, meaning less quailty loss.
+[mp3DirectCut](http://mpesch3.de1.cc/mp3dc.html) adalah software pengubah audio gratis.
+Alat ini direkomendasikan ketika Anda hanya ingin menaikan/menurunkan volume atau memotong audio sebagaimana ini tidak membutuhkan Anda me-encode ulang audio, yang berarti lebih sedikit kehilangan kualitas.
 
-### Looping
+### Perulangan
 
-Install and open mp3DirectCut, then follow these steps:
+Pasang dan buka mp3DirectCut, kemudian ikuti langkah-langkah berikut:
 
-1. Open the `.mp3` file that you want to loop.
-2. Click and drag to highlight the parts you want to loop.
-   - Rarely, it would be the start to the end of the music.
-   - Sometimes the chorus or refrain is where looping is done best.
-3. Press `Ctrl` + `C`, or
-   1. Click `Edit`
-   2. Click `Copy`
-4. Find a location for where you can loop the part you have copied.
-   - This could be the end of the part you had highlighed.
-5. Press `Ctrl` + `V`, or
-   1. Click `Edit`
-   2. Click `Paste`
-6. Play through the entire music and make sure that the loop sounds good.
-7. Repeat as needed.
-8. Press `Ctrl` + `W`, or
-   1. Click `File`.
-   2. Click `Save complete audio...`.
-9. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-10. Click `Save`.
+1. Buka file `.mp3` yang Anda mau ulangi.
+2. Klik dan tarik untuk menandai bagian yang mau Anda ulangi.
+    - Sangat jarang, itu akan menjadi akhir dari musik.
+    - Terkadang chorus atau reffrein yang diulang menjadi bagus.
+3. Tekan `Ctrl` + `C`, atau
+    1. Klik `Edit`
+    2. Klik `Copy`
+4. Cari sebuah tempat untuk dimana Anda dapat mengulang bagian yang Anda salin.
+5. Press `Ctrl` + `V`, atau
+    1. Klik `Edit`
+    2. Klik `Paste`
+6. Mainkan seluruh bagian musik dan pastikan bahwa bagian ulang terdengar bagus.
+7. Ulangi sebanyak yang dibutuhkan
+8. Tekan `Ctrl` + `W`, atau
+    1. Klik `File`
+    2. Klik `Save complete audio...`.
+9. Navigasikan ke lokasi dimana Anda ingin menyimpan file.
+    - Anda dapat mengubah nama file juga.
+10. Klik `Save`.
 
-### Cropping
+### Memotong
 
-Install and open mp3DirectCut, then follow these steps:
+Pasang dan buka mp3DirectCut, kemudian ikuti langkah-langkah berikut:
 
-1. Open the `.mp3` file that you want to crop.
-2. Click and drag to highlight the parts you want to crop.
-   - This should be the long outro that you don't want to map.
-3. Press `Delete`.
-4. Click and drag the last 3 to 5 seconds towards the end.
-5. Press `Ctrl` + `F`, or
-   1. Click `Edit`.
-   2. Click `Simple fade to/from position`.
-6. Press `Ctrl` + `W`, or
-   1. Click `File`.
-   2. Click `Save complete audio...`.
-7. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-8. Click `Save`.
+1. Buka file `.mp3` yang ingin Anda potong.
+2. Klik dan tarik untuk menandai bagian yang mau Anda potong.
+    - Ini seharusnya menjadi outro panjang yang tidak ingin Anda map.
+3. Tekan `Delete`.
+4. Klik dan tarik 3 sampai 5 detik terakhir pada akhiran.
+5. Tekan `Ctrl` + `F`, atau
+    1. Klik `Edit`
+    2. Klik `Simple fade to/from position`.
+6. Tekan `Ctrl` + `W`, atau
+    1. Klik `File`
+    2. Klik `Save complete audio...`.
+7. Navigasikan ke lokasi dimana Anda ingin menyimpan file.
+    - Anda dapat mengubah nama file juga.
+8. Klik `Save`.
 
-### Adjusting the Volume
+### Mengatur volume
 
-Install and open mp3DirectCut, then follow these steps:
+Pasang dan buka mp3DirectCut, kemudian ikuti langkah-langkah berikut:
 
-1. Open the `.mp3` file that you want to adjust.
-2. Press `Ctrl` + `A` to select all.
-3. Press `Ctrl` + `G`, or
-   1. Click `Edit`
-   2. Click `Gain...`
-4. Check the `Lock Sliders` checkbox.
-5. Take the left slider and lower it.
-   - The dB (decibels) you set it to will vary, just try various volumes until you get it right.
-6. When you are satisfied, press `OK`.
-7. Press `Ctrl` + `W`, or
-   1. Click `File`.
-   2. Click `Save complete audio...`.
-8. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-9. Click `Save`.
+1. Buka file `.mp3` yang Anda ingin atur.
+2. Tekan `Ctrl` + `A` untuk memilih semua.
+3. Tekan `Ctrl` + `G`, atau
+    1. Klik `Edit`
+    2. Klik `Gain...`
+4. Markahi checkbox `Lock Sliders`.
+5. Ambil geseran kiri dan turunkan itu.
+    - dB (desibel) yang Anda atur akan beragam, coba saja beragam volume sampai Anda merasa itu bagus.
+6. Ketika Anda puas, tekan `OK`.
+7. Tekan `Ctrl` + `W`, atau
+    1. Klik `File`
+    2. Klik `Save complete audio...`.
+8. Navigasikan ke lokasi dimana Anda ingin menyimpan file.
+    - Anda dapat mengubah nama file juga.
+9. Klik `Save`.
