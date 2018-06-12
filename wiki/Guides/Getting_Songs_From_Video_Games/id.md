@@ -31,25 +31,27 @@ Memuat lagu kita
 Ketika Anda dalam folder musik permainan, waktunya untuk memuat lagu ke foobar2000. Untuk melakukan itu, pilih semua file dalam folder dan tarik mereka ke jendela foobar. Ketika lagu sudah dimuat, dengarkan satu persatu sampai Anda mendapatkan lagu yang diinginkan. Dalam tutorial ini, kami mencari *Chapter 3 Boss Battle Theme* (Kami tidak bisa memberitahu nama asli untuk mereka yang masih bermain permainan itu :p) maka file kita adalah **btl\_gns1\_32k.stm**.
 Silakan mendengarkan lagunya.
 
-Converting
+Mengubah
 ----------
 
-Once you have the song that you are converting, right-click the song in the playlist, select *Convert* and then the *...* option. This will bring you to a dialog so you can select how the conversion will be done.
+Setelah Anda memiliki lagu yang ingin Anda ubah, klik kanan pada lagu yang ada di daftar putar, pilih *Convert* dan opsi *...*. Ini akan membawa Anda ke sebuah dialog sehingga Anda dapat memilih bagaimana pengubahan dapat dilakukan.
 
-This list will give you the correct setup for converting them to osu!:
+Daftar ini akan memberikan Anda pengaturan yang benar untuk mengubah mereka ke osu!:
+<!--->
+    Butuh bantuan disini. (Review)
+<!--->
+-   **Output Format:** Format: MP3 (LAME), V2. *(Bitrate akan mengatur dirinya sendiri ke 190kbps)*
+-   **Destination:** Folder output: Folder file utama.
+    Tipe output: Koleksi lagu menjadi file individual.
+    Pola nama file: %judul%
+-   **Processing:** Keras pembatas -6dB.*(Opsional)*
+-   **Other:** Ketika selesai: jangan lakukan apapun.
 
--   **Output Format:** Format: MP3 (LAME), V2. *(The bitrate will setup itself to 190kbps)*
--   **Destination:** Output folder: source file folder.
-    Output type: tracks into individual files.
-    File name pattern: %title%
--   **Processing:** Hard -6dB limiter. *(Optional)*
--   **Other:** When finished: do nothing.
+*Catatan: Jika Anda belum pernah mengubah ke MP3 dalam foobar2000 sebelumnya, pengubah akan menanyakan untuk mencari **lame.exe**. Navigasikan ke folder dimana Anda mengekstrak **lame.exe** dan pilih filenya.*
 
-*Note: If you haven't converted to MP3 in foobar2000 before, the converter will ask you to locate **lame.exe**. Navigate to the folder where you have extracted **lame.exe** and select the file.*
+Setelah Anda mengatur opsi-opsi yang ada, klik tombol *Save* dan ketika itu menanyakan untuk menimpa preset, klik pada *Save as new*. Berikan itu sebuah nama sehingga Anda dapat mengubah lagu dikemudian hari lebih cepat. Ketika Anda siap mengubah, klik pada tombol *Conver* sehingga proses pengubahan dapat dimulai. Setelah selesai, cari folder yang memuat file hasil. Pada kasus kita, file itu adalah **btl\_gns1\_32k.mp3**. 
 
-Once you have your options set, click the *Save* button and when it asks to overwrite the preset, click in *Save as new*. Give it a name so you can convert future songs quickly. Once you are ready to convert, click on the *Convert* button so the conversion process can start. Once it's finished, search the folder for the resulting file. In our case, the file is **btl\_gns1\_32k.mp3**.
-
-Finishing
+Penyelesaian
 ---------
 
-Once we have our converted file, load it in foobar2000 or in your prefered music player to check if the song converted to your linking, if not, review the conversion settings until you have an appropriate file. Once the file is ready, drag it into osu!'s window, fill in the tags and start mapping!
+Ketika kita sudah mengubah file kita, muat itu pada foobar2000 atau pada pemutar musik kesukaan Anda untuk mengecek apakah lagu yang diubah sudah sesuai, jika tidak, lihat ulang pengaturan pengubah sampai anda dapat file yang cocok. Ketika file tersebut siap, tarik itu ke window osu!, isi label dan mulai membuat map!
