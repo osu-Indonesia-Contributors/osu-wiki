@@ -1,7 +1,6 @@
 Informasi Berkolaborasi
 ===================
 
-Collaborations are one of the most difficult types of mapping to achieve. There are a lot of factors to include... Here are some tips to consider when making a collaboration.
 Kolaborasi adalah salah satu dari tipe dari mapping yang tersusah untuk dicapai. Ada banyak faktor yang termasuk... Berikut adalah beberapa tip yang perlu dipertimbangkan ketika membuat sebuah kolaborasi.
 
 Yakin
@@ -29,34 +28,34 @@ Sebuah langkah yang dapat gampang diabaikan, berbahaya jika itu dilakukan.
 Membagi
 ------------
 
-It is usually good to have parts in which you and the other person/people that you are working with can clearly start mapping.
-Hal ini biasanya baik untuk memiliki bagian yang Anda dan orang/-orang lain yang Anda bekerja bersama dapat memulai mapping secara jelas.
--   First, it is advised that you bookmark your section of the song. Preferably even as possible.
--   Regardless of who starts mapping, it much more easier to go from start to finish instead of you mapping all your parts altogether. That way, it is much more easier to flow and play better.
--   Remember to partition in breaks. **Most people forget that.**
+Hal ini biasanya bagus untuk memiliki bagian yang Anda dan orang/-orang lain yang Anda bekerja bersama dapat memulai mapping secara jelas.
 
-Map Settings
+-   Pertama, sangat disarankan untuk membookmark bagian Anda pada lagu. Lebih disukai seadil mungkin.
+-   Terlepas dari siapa yang memulai mapping, akan jauh lebih mudah untuk memulai dari awal sampai akhir daripada Anda membuat bagian map Anda sekaligus. Dengan begitu, akan menjadi jauh lebih mudah mengalir dan bermain lebih baik.
+-   Ingat untuk membagi pada jeda. **Kebanyakan orang lupa itu.**
+
+Pengaturan Map
 ------------
 
-If you can't agree on map settings...it's going to be detrimental.
+Jika Anda tidak dapat menyetujui pada pengaturan map...Itu akan merugikan 
 
--   Agree on a Slider Velocity. This was a big killer for Last Time Travel and Gonna Be Here.
--   Agree on distance snapping and spacing in general. Look at [Be Your Wings](https://osu.ppy.sh/s/8518).
--   Agree on difficulty settings.
+-   Setuju dalam kecepatan Slider. Ini adalah pembunuh besar untuk Last Time Travel dan Gonna Be Here.
+-   Setuju dalam jarak jauh dan spasi secara umum. Lihat pada [Be Your Wings](https://osu.ppy.sh/s/8518).
+-   Setuju dalam pengaturan level kesulitan.
 
-Mappers
+Mapper
 -------
 
-This is the part where most people go crazy. Getting mappers that you might dream about to have might not be so easy but if you do get them, you must be ready in every aspect before you start.
+Inilah bagian dimana kebanyakan orang menjadi gila. Mendapatkan mapper yang Anda impikan untuk dimiliki mungkin tidak mudah tetapi jika Anda mendapatkan mereka, Anda harus siap pada setiap aspek sebelum Anda mulai.
 
--   Develop your own mapping skills. One of the key aspects. If the person you want to collab with doesn't like how you map... You can kiss collaborating good-bye.
--   Choose someone who has a similar style to you. It can often be easier when mapping, to flow together.
--   Make sure that you all can contact each other easily... **This is important because if the people you are working with disappear for whatever reason, you are left stranded.**
+-   Bangun kemampuan mapping Anda sendiri. Salah satu dari aspek kunci. Jika orang yang Anda ingin kolaborasi dengan tidak suka cara Anda membuat map... Anda dapat cium selamat tinggal kolaborasi.
+-   Pilih orang yang memiliki gaya yang sama dengan Anda. Hal ini selalu membuat gampang ketika membuat map, untuk mengalir bersama.
+-   Pastikan Anda semua dapat mengkontak satu sama lain dengan mudah... **Hal ini penting karena jika orang yang Anda bekerja bersama hilang untuk alasan apapun, Anda terlantar.**
 
-Remember, always keep in mind that a good map is one that takes time and is at it's highest potential. Collaborations are often one of the most hardest maps to get ranked. A few reasons being:
+Ingat, selalu mengingat bahwa sebuah map bagus adalah yang membutuhkan waktu dan itu dalam potensi tertingginya. Kolaborasi adalah yang selalu salah satu map yang tersusah untuk mendapatkan ranked. Beberapa alasan:
 
--   You have more than one mapper, and if modders find a problem in your other mappers section, your other mapper has to solve it.
--   Parts can clash and the flow of the map can be really hard to pull off.
--   Collaborations are the hardest map to start off and complete.
+-   Anda memiliki mapper lebih dari satu, dan jika modder menemukan sebuah masalah pada bagian mapper lain, mapper lain Anda harus menyelesaikan itu.
+-   Bagian dapat berbenturan dan aliran dari map dapat menjadi sangat sulit untuk dilakukan.
+-   Kolaborasi adalah map tersulit untuk dimulai dan diselesaikan.
 
-Just remember, collaborations, despite being complex to begin and follow through, are often the most rewarding once completed.
+Ingatlah, kolaborasi, meskipun demikian kompleks untuk dimulai dan diikuti terus, seringkali menjadi yang paling berguna ketika diselesaikan.
