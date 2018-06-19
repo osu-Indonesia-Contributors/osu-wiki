@@ -28,9 +28,9 @@ Sebuah langkah yang dapat gampang diabaikan, berbahaya jika itu dilakukan.
 Membagi
 ------------
 
-Hal ini biasanya bagus untuk memiliki bagian yang Anda dan orang/-orang lain yang Anda bekerja bersama dapat memulai mapping secara jelas.
+Hal ini biasanya bagus untuk memiliki bagian yang Anda dan orang/-orang lain yang bekerja dengan Anda dapat memulai mapping secara jelas.
 
--   Pertama, sangat disarankan untuk membookmark bagian Anda pada lagu. Lebih disukai seadil mungkin.
+-   Pertama, sangat disarankan untuk membookmark bagian Anda pada lagu. Lebih baik seadil mungkin.
 -   Terlepas dari siapa yang memulai mapping, akan jauh lebih mudah untuk memulai dari awal sampai akhir daripada Anda membuat bagian map Anda sekaligus. Dengan begitu, akan menjadi jauh lebih mudah mengalir dan bermain lebih baik.
 -   Ingat untuk membagi pada jeda. **Kebanyakan orang lupa itu.**
 
@@ -49,10 +49,10 @@ Mapper
 Inilah bagian dimana kebanyakan orang menjadi gila. Mendapatkan mapper yang Anda impikan untuk dimiliki mungkin tidak mudah tetapi jika Anda mendapatkan mereka, Anda harus siap pada setiap aspek sebelum Anda mulai.
 
 -   Bangun kemampuan mapping Anda sendiri. Salah satu dari aspek kunci. Jika orang yang Anda ingin kolaborasi dengan tidak suka cara Anda membuat map... Anda dapat cium selamat tinggal kolaborasi.
--   Pilih orang yang memiliki gaya yang sama dengan Anda. Hal ini selalu membuat gampang ketika membuat map, untuk mengalir bersama.
--   Pastikan Anda semua dapat mengkontak satu sama lain dengan mudah... **Hal ini penting karena jika orang yang Anda bekerja bersama hilang untuk alasan apapun, Anda terlantar.**
+-   Pilih orang yang memiliki gaya yang sama dengan Anda. Hal ini selalu mempermudah ketika membuat map, untuk mengalir bersama.
+-   Pastikan Anda semua dapat mengkontak satu sama lain dengan mudah... **Hal ini penting karena jika orang yang bekerja dengan Anda hilang untuk alasan apapun, Anda terlantar.**
 
-Ingat, selalu mengingat bahwa sebuah map bagus adalah yang membutuhkan waktu dan itu dalam potensi tertingginya. Kolaborasi adalah yang selalu salah satu map yang tersusah untuk mendapatkan ranked. Beberapa alasan:
+Ingat, selalu mengingat bahwa sebuah map bagus adalah yang membutuhkan waktu dan itu dalam potensi tertingginya. Kolaborasi sering menjadi salah satu map yang tersusah untuk mendapatkan ranked. Beberapa alasan:
 
 -   Anda memiliki mapper lebih dari satu, dan jika modder menemukan sebuah masalah pada bagian mapper lain, mapper lain Anda harus menyelesaikan itu.
 -   Bagian dapat berbenturan dan aliran dari map dapat menjadi sangat sulit untuk dilakukan.
