@@ -116,47 +116,47 @@ Di tengah adalah deretan Pertandingan yang tersedia setelah difilter.
 
 Setiap baris berisi Pertandingan, dengan penjelasan terbagi antara sisi kiri dan kanan untuk memudahkan pembacaan:-
 
-- On the left side, there is the game mode symbol, game mode name with (Team Mode) enclosed in brackets, number of players inside over number of players allowed, and rank difference from highest to lowest
-- On the right side, there is a large host profile image and smaller players profile image placement in the Match Setup along with the Match Setup's name and the beatmapset's name with \[beatmap/difficulty\] enclosed in square brackets to be played for this match.
-  - Red colour means the slot is taken (by a player).
-  - Green colour means the slot is available.
-  - No colour means the slot is locked.
+- Di sisi kiri, ada simbol mode permainan, nama mode permainan dengan (Mode Tim) tertutup dalam kurung, jumlah pemain di dalam lebih dari jumlah pemain yang diizinkan, dan peringkat perbedaan dari tertinggi ke terendah
+- Di sisi kanan, ada gambar profil host yang besar dan penempatan gambar profil pemain yang lebih kecil dalam Pertandingan bersama dengan nama Pertandingan dan nama beatmapset dengan \[beatmap/kesulitan\] diapit dengan tanda kurung siku untuk dimainkan pada pertandingan ini.
+  - Warna merah berarti slotnya diambil (oleh pemain).
+  - Warna hijau berarti slotnya tersedia.
+  - Tidak ada warna berarti slot terkunci.
 
-To enter a Match Setup, click on one of the desired row.
+Untuk masuk Pertandingan, klik salah satu baris yang diinginkan.
 
 ![An example of a locked Match Setup][Multi_lobby_locked image]
 
-**Note:** If the game mode symbol contains a lock icon, clicking on it will prompt an empty text box to enter the Match Setup password.
-The player should enter the correct password to access the locked Match Setup.
-Alternatively, the player can request an invite from the Match Setup's host directly to bypass the locked password requirement.
+**Catatan:** Jika simbol mode permainan berisi ikon kunci, mengkliknya akan meminta kotak teks kosong untuk memasukkan kata sandi Pertandingan.
+Pemain harus memasukkan kata sandi yang benar untuk mengakses Pertandingan yang dikunci.
+Atau, pemain dapat meminta undangan dari host Pertandingan secara langsung untuk melewati persyaratan kata sandi yang terkunci.
 
 ---
 
 <!-- Bottom -->
 
-The three buttons above the Chat Console are special commands a player can use while in the Lobby, reading from left-to-right:-
+Tiga tombol di atas Konsol Obrolan adalah perintah khusus yang dapat digunakan oleh pemain saat berada di Lobby, membaca dari kiri-ke-kanan:-
 
-Title | Description
+Judul | Deskripsi
 :---: | :---
-`Back to Menu` | Self-explanatory; **leave the lobby and return to the main menu**.
-`New Game`     | **Preparation to create a new Match Setup**
-`Quick Join`   | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**.
+`Back to Menu` | Cukup jelas; **tinggalkan lobby dan kembali ke menu utama**.
+`New Game`     | **Persiapan untuk membuat Pertandingan baru**
+`Quick Join`   | Tempatkan pemain ke **Pertandingan yang tersedia** _secara acak_ berdasarkan **kisaran peringkat pp saat ini**.
 
-The [Chat Console][Chat Console wikilink] will be available at the bottom of the screen and connected to `#lobby` by default.
+[Chat Console][Chat Console wikilink] akan tersedia di bagian bawah layar dan terhubung ke `#lobby` secara otomatis.
 
-## New game
+## Permainan baru
 
 ![New Game setup screen][Multi_new_game image]
 
-Title | Description
+Judul | Deskripsi
 :---: | :---
-**Game Name**   | **Name of the Match Setup.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button.
-**Password**    | **Password to enter the Match Setup.** Only appears if the `Require Password to join` button was enabled. Match Setup game mode symbol will be shown with a lock.
-**Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the slots.
+**Nama Permainan**   | **Nama dari Pertandingan.** Normal ke permainan `{accountname}`'s. Untuk membuat Pertandingan menjadi pribadi, aktifkan tombol `Perlu Kata Sandi untuk bergabung` .
+**Kata Sandi**    | **Kata sandi untuk masuk ke Pertandingan.** Hanya muncul jika `Perlu Kata Sandi untuk bergabung` tombol diaktifkan. Simbol mode permainan Penyetelan akan ditampilkan dengan kunci.
+**Jumlah Pemain** | **Jumlah total pemain diizinkan bergabung dengan Pertandingan.** normalnya 8 pemain, dengan rentang dari 2 hingga total 16 pemain, termasuk pemain sebagai host. Ini dapat disesuaikan nanti dengan mengunci / membuka kunci slot.
 
-Press the `1. Start Game` button to **create the Match Setup** with the **player as the host** of the Match Setup and the **beatmap playing in the jukebox as the match's beatmap/difficulty**.
+Tekan tombol `1. Start Game` untuk **buat Pertandingan** dengan **pemain sebagai host** Pertandingan dan **beatmap bermain di jukebox sebagai beatmap / kesulitan pertandingan**.
 
-## Match Setup
+## Pertandingan
 
 <!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu!wiki for Song Selection? -->
 
@@ -166,7 +166,7 @@ Press the `1. Start Game` button to **create the Match Setup** with the **player
 
 
 <!-- Top -->
-The top section at the left display the name of the screen, status in the Match Setup (either host or player), player box at the middle based on current game mode played, and a pause button to pause the beatmap's song (if the player has the beatmap) located at the right side.
+Bagian atas di sebelah kiri menampilkan nama layar, status dalam Pertandingan (baik host atau pemain), kotak pemain di tengah berdasarkan mode permainan saat ini dimainkan, dan tombol pause untuk menghentikan sementara lagu beatmap (jika pemain memiliki beatmap) yang terletak di sisi kanan.
 
 ---
 
